@@ -1,5 +1,10 @@
 const bookmarks = [
     {
+        "title": "Web Development learning tool",
+        "link": "https://www.traversymedia.com",
+       
+    },
+    {
         "title": "Learn OpenCV ( C++ / Python )",
         "link": "https://www.learnopencv.com/",
         "tags": [ "C++", "python", "OpenCV" ]
